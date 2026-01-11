@@ -1,0 +1,10 @@
+config_defaults = {
+    "config_version": "1.0",
+    "port": 7000,
+    "app_drive": "C:/",
+    "app_base_directory_name": "face_recognition_project",
+    "log_directory_name": "logs",
+    "log_level": "INFO",
+    "face_threshold": 0.6,
+    "debug": True,
+}
